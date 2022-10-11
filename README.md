@@ -1,4 +1,4 @@
-самый главный файл npm run dev
+самый главный файл `npm run dev`
 localhost:3000
 новые строки в папке pages/
 
@@ -10,6 +10,13 @@ localhost:3000
 * https://code.visualstudio.com/Download
 * https://cli.github.com/
 * https://git-scm.com/download/win
+
+Потом:
+
+```
+git config --global user.name 'твое имя'
+git config --global user.email 'твой имейл'
+```
 
 # Как подключать библиотеки
 
