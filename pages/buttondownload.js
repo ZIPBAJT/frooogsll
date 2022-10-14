@@ -25,11 +25,20 @@ export default function Home() {
         Download
       </Button>
 
-{/* отступ с верху */}
+{/* отступ с верху с скачиванием  */}
 
-<Button type="primary" href="/lione.gif" download icon={<DownloadOutlined />} style={{margin: "auto", marginTop :"250px", display: "block"}}>
+      <div style={{margin: "auto", marginTop :"250px", display: "block" , textAlign: "center"}}>
+
+      <Button 
+        type="primary" // главный 
+        href="/lione.gif" //gif
+        download //скачать
+        icon={<DownloadOutlined />}//иконка к кнопке 
+        >
         Download
       </Button>
+
+      </div>
 
 
     </>
