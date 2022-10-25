@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { DownloadOutlined } from '@ant-design/icons';
-import { Button, Radio } from 'antd';
+import { Button,} from 'antd';
 
 export default function Home() {
   // JS-часть
