@@ -40,3 +40,4 @@ git config --global user.email 'твой имейл'
 
 ctrl + /  добавить комм
 ctrl + s save
+ctrl + shift + i консоль в браузере 

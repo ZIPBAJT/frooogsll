@@ -11,8 +11,8 @@ export default function Home() {
     <>
       <div style={{margin: "50px"}}>
         <a href="https://editor.p5js.org/rembbole/sketches/uaCTwXWvZ">
-        <img className={styles.img} src="/a312b678P5jS.png"  width={200} />
-      </a>
+          <img className={styles.img} src="/a312b678P5jS.png" width={200} />
+        </a>
       </div>
     </>
   )

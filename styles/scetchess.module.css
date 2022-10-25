@@ -1,8 +1,10 @@
 .img:hover {
-    transform: scale(1.3);
+    transform: scale(2.6);
+    border:2px solid red ;
 }
-.img {
-    transition: all 0.3s ease-in-out;
+/* за 0ю9 сек дергана увеличиваться ,увел в 2ю6 раза */
+ .img { 
+    transition: all 0.9s steps(4, end);
     border: 2px solid blue;
     border-radius: 5px;
 }
