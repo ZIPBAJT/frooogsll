@@ -6,10 +6,10 @@ localhost:3000
 
 Установить:
 
-* https://nodejs.org/ (LTS версия)
-* https://code.visualstudio.com/Download
-* https://cli.github.com/
-* https://git-scm.com/download/win
+- https://nodejs.org/ (LTS версия)
+- https://code.visualstudio.com/Download
+- https://cli.github.com/
+- https://git-scm.com/download/win
 
 Потом:
 
@@ -34,10 +34,16 @@ git config --global user.email 'твой имейл'
 
 5. Добавить изменения в VSCode, создать коммит и запушить на сервер
 
-# сочитание клавиш    
+# сочитание клавиш
 
-
-
-ctrl + /  добавить комм
+ctrl + / добавить комм
 ctrl + s save
-ctrl + shift + i консоль в браузере 
+ctrl + shift + i консоль в браузере
+
+# ошибки и решения
+
+ReferenceError: Popover is not defined
+забыл добавить и импорт
+
+the name `Button` is defined multiple times
+решение буттон импортируется несколки раз
