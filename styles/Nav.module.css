@@ -13,3 +13,10 @@
   box: shadow 1px;
   margin: auto;
 }
+.colores {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  /* cursor */
+  cursor: wait;
+}
