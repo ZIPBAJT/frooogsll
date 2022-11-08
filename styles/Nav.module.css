@@ -1,10 +1,15 @@
- .butt {margin: 10px ;}
-.dive {text-align: center; 
+.butt {
+  margin: 10px;
+  border: 2px solid rgb(46, 136, 67);
+  border-radius: 5px;
+  box: shadow 1px;
 }
-.sok
-{border:2px solid blue ;
- border-radius: 5px;
- box: shadow 1px;;
-/* margin: auto; */
+.dive {
+  text-align: center;
 }
-
+.sok {
+  border: 2px solid blue;
+  border-radius: 5px;
+  box: shadow 1px;
+  margin: auto;
+}

@@ -1,5 +1,5 @@
 .img:hover {
-    transform: scale(1.6);
+    transform: scale(1.5);
     border:2px solid red ;
 }
 /* за 0ю9 сек дергана увеличиваться ,увел в 2ю6 раза */
