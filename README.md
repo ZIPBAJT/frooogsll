@@ -40,6 +40,10 @@ ctrl + / добавить комм
 ctrl + s save
 ctrl + shift + i консоль в браузере
 
+# прочее
+
+https://getcssscan.com/css-box-shadow-examples красивые тени
+
 # ошибки и решения
 
 ReferenceError: Popover is not defined
