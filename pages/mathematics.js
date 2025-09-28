@@ -28,7 +28,8 @@ export default function Home() {
               rosnącej, przy czym każda kolejna liczba z prawej strony od pewnej liczby N jest większa od liczby N, a naibardziej prawa liczba od N jest
               dokładnie o jeden większa od N, co można zapisac jako N+1 /ale o tym pózniej/. Też warto jest upomnieć że liczby nie są jedynym sposobem
               odzwiercwiedlenia tego czym jest liczbowość, mimo tego że istnieje nieskonczenie wiele sposobów, my bedziemy stosować tylko jeden, czyli
-              lierowy gdzie oś wygląda w następujący sposób: &__A__B__C__D__E__F__G__H__I__J__K__L__M__N__O__P__{">"}kierunek prawa i nieskonczności.
+              lierowy gdzie oś wygląda w następujący sposób: &__A__B__C__D__E__F__G__H__I__J__K__L__M__N__O__P__{">"}kierunek prawa i nieskonczności. $3. 
+              Algorytmy dodawania odejmowania a pozniej mnozenia i dzielenia oraz wielie innych rzeczy.
               
             </dfn>
             <li>Postulaty i Aksiomaty</li>
