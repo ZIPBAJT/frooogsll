@@ -2,7 +2,8 @@ import { Button } from "antd";
 import { useState } from "react";
 import styles from "../styles/Nav.module.css";
 import { Popover } from "antd";
-import React from "react";
+//import React from "react";
+
 
 export function Nav() {
   //  coздает реакт переменую
@@ -277,6 +278,20 @@ export function Nav() {
         <button
           className={styles.butt}
           onClick={() => (window.location.href = "/mathematics")}
+          style={{ borderColor: color }}
+        >
+          mathematical_adventure
+        </button>
+        <button
+          className={styles.butt}
+          onClick={() => (window.location.href = "/p5testing")}
+          style={{ borderColor: color }}
+        >
+          mathematical_adventure
+        </button>
+        <button
+          className={styles.butt}
+          onClick={() => (window.location.href = "/Spiskowosc")}
           style={{ borderColor: color }}
         >
           mathematical_adventure

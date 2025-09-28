@@ -3,6 +3,7 @@ import "antd/dist/antd.css";
 import Head from "next/head";
 import { Nav } from "../components/Nav";
 import { Neznau } from "../components/Neznau";
+
 function MyApp({ Component, pageProps }) {
   return (
     <>

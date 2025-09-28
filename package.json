@@ -11,9 +11,11 @@
   "dependencies": {
     "antd": "^4.23.5",
     "next": "^12.3.7",
+    "p5": "^2.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-img-zoom": "^0.1.0",
+    "react-p5": "^1.4.1",
     "react-telegram-embed": "^0.1.1"
   },
   "devDependencies": {

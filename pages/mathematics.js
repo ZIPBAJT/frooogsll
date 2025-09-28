@@ -29,8 +29,8 @@ export default function Home() {
               dokładnie o jeden większa od N, co można zapisac jako N+1 /ale o tym pózniej/. Też warto jest upomnieć że liczby nie są jedynym sposobem
               odzwiercwiedlenia tego czym jest liczbowość, mimo tego że istnieje nieskonczenie wiele sposobów, my bedziemy stosować tylko jeden, czyli
               lierowy gdzie oś wygląda w następujący sposób: &__A__B__C__D__E__F__G__H__I__J__K__L__M__N__O__P__{">"}kierunek prawa i nieskonczności. $3. 
-              Algorytmy dodawania odejmowania a pozniej mnozenia i dzielenia oraz wielie innych rzeczy.
-              
+              Algorytmy dodawania odejmowania a pozniej mnozenia i dzielenia oraz wielie innych rzeczy. Dla tego zdefinujemy pierwszy postulatowie. αδ▱∭∲∮∬∑▮▩▧ʓ◀Â‱⁂⁜※⌂﷼₻₯ℳ₶₰₰◎◒◛◳◬◭∓∰∭∳⨚⨗⨖⨓⨕πξλτμοςσϔ
+              ₰1. Postulat piewszy.
             </dfn>
             <li>Postulaty i Aksiomaty</li>
             <b></b>
