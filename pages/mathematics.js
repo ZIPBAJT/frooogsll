@@ -30,14 +30,30 @@ export default function Home() {
               odzwiercwiedlenia tego czym jest liczbowość, mimo tego że istnieje nieskonczenie wiele sposobów, my bedziemy stosować tylko jeden, czyli
               lierowy gdzie oś wygląda w następujący sposób: &__A__B__C__D__E__F__G__H__I__J__K__L__M__N__O__P__{">"}kierunek prawa i nieskonczności. $3. 
               Algorytmy dodawania odejmowania a pozniej mnozenia i dzielenia oraz wielie innych rzeczy. Dla tego zdefinujemy pierwszy postulatowie. αδ▱∭∲∮∬∑▮▩▧ʓ◀Â‱⁂⁜※⌂﷼₻₯ℳ₶₰₰◎◒◛◳◬◭∓∰∭∳⨚⨗⨖⨓⨕πξλτμοςσϔ
-              ₰1. Postulat piewszy.
+              <br></br>
+              ₰1. Postulat piewszy. Isnieje lewo i prawo, czyli położenie i orentacja, gdzie lewo i prawo definuje się na wiele sposobów, jeden z naiprostrzych są:
+              {"< strzałka w lewo; > strzałka w prawo, 0__1__2__LEWO OD TRZECH|3|PRAWO OD TRZECH__4__5__6"}  <img src="Strzalki.png" alt="LewoiPrawo" title="Blablabla"></img>
+
             </dfn>
+            
             <li>Postulaty i Aksiomaty</li>
+            <dfn>Definicja... Postulaty <b>₰1.</b> Pierwszy postulat </dfn>
             <b></b>
           </ol>
         </ol>
+        <p>
+          <u>Nowe przekształcenie wiedzy matematycznej. Postulatowie. 1....</u>
+        </p>
+        <p>Działalności. Definicja najleprzej funkcji ₰{"(x)"}. Przeglądając oś możemy zanotować iż składa się z część i możemy ją na te części rozłączyć. 
+          Modul pierwszy. Jeżili popatrzymy na oś i narusujemy wersje gdzie będzie tylko 1__2 to będzie to linia następcza, natomiast ₰ od x wypisuję taki układ x__y gdzie y
+          jest następczy dla x. Teraz mozemy powiedzic ze ₰; od x to jest y. znaczy ze x+1 = ₰; od x = y... DODAWANIE MAMY 
 
+
+
+
+        </p>
        </text>
+       
       }
     </>
   )

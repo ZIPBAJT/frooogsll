@@ -10,6 +10,7 @@ export default function Home() {
     <>
       {/* элементы добавлять после этой строки */}
       <TelegramPost src="https://t.me/mathhobby/684" />
+      
 
       
     </>
